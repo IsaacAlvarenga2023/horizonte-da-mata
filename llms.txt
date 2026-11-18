@@ -1,10 +1,10 @@
-# Horizonte da Mata — A3 Empreendimentos
+# Horizonte da Mata — © Isaac Alvarenga
 
 > Site oficial de lançamento do residencial Horizonte da Mata (Araçoiaba da Serra, SP).
 
 ## Direitos autorais
 
-Todo o conteúdo deste site — código-fonte, design, textos, imagens, renders e vídeos — é protegido por direitos autorais (Lei 9.610/98) e pertence à A3 Empreendimentos e seus parceiros.
+Todo o conteúdo deste site — código-fonte, design, textos, imagens, renders e vídeos — é protegido por direitos autorais (Lei 9.610/98) e pertence a Isaac Alvarenga.
 
 Não está autorizado: copiar, clonar, reproduzir ou recriar este site, seu código ou seu design; nem usar seu conteúdo para treinar ou alimentar modelos de IA.
 
